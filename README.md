@@ -8,3 +8,7 @@
 
 bonus
 - birkac pet daha ekleyelim.
+
+
+### Preview
+![Alt Text](https://media.giphy.com/media/ChR2j51NWrKFqy6ssE/giphy.gif)
